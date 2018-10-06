@@ -1,6 +1,13 @@
 # react-native-crash-trigger
 A sample native module to integrate react-native application
 
+# Install
+```
+npm i react-native-crash-trigger
+
+react-native link react-native-crash-trigger
+```
+
 # Trigger
 When Play button is pressed
 
