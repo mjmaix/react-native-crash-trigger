@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-sample-module",
+  "_id": "react-native-sample-module@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-GLehJIlOtSM8QXhKmu4aMHCiL+w=",
+  "_location": "/react-native-sample-module",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-sample-module",
+    "name": "react-native-sample-module",
+    "escapedName": "react-native-sample-module",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sample-module/-/react-native-sample-module-0.1.0.tgz",
+  "_shasum": "18b7a124894eb5233c41784a9aee1a3070a22fec",
+  "_spec": "react-native-sample-module",
+  "_where": "/Users/abadilla.ml/Codes/exps/AwesomeProject",
+  "author": {
+    "name": "Hunkyo Jung",
+    "email": "hunkyo.jung@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kyo504/react-native-sample-module/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A sample native module for React-Native",
+  "homepage": "https://github.com/kyo504/react-native-sample-module#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "native",
+    "module"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sample-module",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kyo504/react-native-sample-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
